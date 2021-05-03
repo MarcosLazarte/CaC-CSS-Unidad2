@@ -1,0 +1,34 @@
+.cuadrado{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.cuadrado__uno{
+    color: yellow;
+    background-color: red;
+    width: 24%;
+    height: 24vw;
+    font-size: 4vw;
+}
+.cuadrado__dos{
+    color: white;
+    background-color: black;
+    width: 24%;
+    height: 24vw;
+    font-size: 4vw;
+}
+.cuadrado__tres{
+    color: yellow;
+    background-color: red;
+    width: 24%;
+    height: 24vw;
+    font-size: 4vw;
+}
+.cuadrado__cuatro{
+    color: yellow;
+    background-color: red;
+    width: 24%;
+    height: 24vw;
+    font-size: 4vw;
+}
